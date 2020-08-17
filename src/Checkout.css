@@ -1,0 +1,11 @@
+.chekout_ad{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color:gainsboro;
+    height: max-content;
+
+}
